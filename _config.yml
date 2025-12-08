@@ -25,7 +25,7 @@ description: "Technical tutorials and project write-ups from a cybersecurity pro
 url: "https://gregqlewis.com"
 baseurl: "" # leave this empty
 repository: "gregqlewis/gregqlewis.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "assets/images/cybersecurity-9968106_1280.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/gql-logo-wht.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
