@@ -1,6 +1,9 @@
 ---
 title: "Faith, Code, and Cloud Security"
 date: 2024-12-07
+header:
+  image: /assets/images/cybersecurity-9968106_1280.png
+  teaser: /assets/images/cybersecurity-9968106_1280.png
 categories:
   - Introduction
 tags:
